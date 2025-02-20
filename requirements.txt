@@ -1,0 +1,11 @@
+pandas
+pathlib
+openpyxl
+requests
+langchain-openai
+langchain-experimental
+psycopg2
+python-dotenv
+urllib3==1.26.6
+tenacity
+openai
